@@ -110,35 +110,20 @@
 ## Terraform
 
 - Infrastructure as Code 
-
 - Introduction to Terraform 
-
 - Providers
-
 - Terraform Common Commands 
-
 - Loops
-
 - Built-in Functions
-
 - Output
-
 - Variables
-
 - Managing Terraform Resources
-
 - Modifying Resources
-
 - Deleting Resources
-
 - Referencing Resources 
-
 - Terraform State 
-
 - Infrastructure Drift
-
 - Terraform Modules
-
 - Terraform Troubleshooting
 
   
